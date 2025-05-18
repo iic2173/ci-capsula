@@ -1,5 +1,5 @@
 {
-  "name": "prep-ci-demo",
+  "name": "ci-capsula",
   "packageManager": "yarn@1.22.22",
   "dependencies": {
     "eslint": "^9.27.0",
